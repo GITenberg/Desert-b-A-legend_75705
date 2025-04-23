@@ -1,0 +1,43 @@
+_repo: Desert-b-A-legend_75705
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Ravilious, Eric
+    aliases:
+    - Ravilious, Eric William
+    - Ravilious, E.
+    birthdate: 1903
+    deathdate: 1942
+    gutenberg_agent_id: '58109'
+    url: http://www.gutenberg.org/2009/agents/58109
+    wikipedia: https://en.wikipedia.org/wiki/Eric_Ravilious
+creator:
+  author:
+    agent_name: Armstrong, Martin
+    birthdate: 1882
+    deathdate: 1974
+    gutenberg_agent_id: '35249'
+    url: http://www.gutenberg.org/2009/agents/35249
+    wikipedia: https://en.wikipedia.org/wiki/Martin_Armstrong_(writer)
+description: ''
+gutenberg_issued: '2025-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75705'
+  lccn: '26016087'
+language: en
+pgterms:marc905: 20250315203308armstrong
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: '  $aNew York :$bHarper & Brothers Publishers, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian fiction'
+- !lcsh 'Hermits -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Desert : $b A legend'
+url: http://www.gutenberg.org/ebooks/75705
