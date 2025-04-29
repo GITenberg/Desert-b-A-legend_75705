@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '58109'
     url: http://www.gutenberg.org/2009/agents/58109
     wikipedia: https://en.wikipedia.org/wiki/Eric_Ravilious
+covers:
+- cover_type: archival
+  image_path: 75705-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Armstrong, Martin
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35249
     wikipedia: https://en.wikipedia.org/wiki/Martin_Armstrong_(writer)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75705#Desert-b-A-legend
 gutenberg_issued: '2025-03-24'
 gutenberg_type: Text
 identifiers:
